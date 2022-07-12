@@ -10,4 +10,4 @@ Language models and other recent machine learning paradigms blur the distinction
 
 ### Files
 
-This repository contains all the code and results, including the human questionnaire data, that allows replication of the experiments carried out in the paper. Experimental data can be found in: https://bit.ly/3zPZlqH
+This repository contains all the code and results, including the human questionnaire data, that allows replication of the experiments carried out in the paper. Experimental (GPT-3) data can be found in: https://bit.ly/3zPZlqH
